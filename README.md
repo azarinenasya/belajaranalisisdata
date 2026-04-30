@@ -1,5 +1,3 @@
-<img width="1427" height="815" alt="image" src="https://github.com/user-attachments/assets/fa129c73-8a3b-49b5-893f-7469cb6cf9fe" />## Air Quality Dashboard ✨
-
 Dashboard ini menyajikan analisis kualitas udara, fokus pada tren Karbon Monoksida (CO) dan kondisi kritis Nitrogen Dioksida (NO2).
 
 ## Setup Environment - Anaconda
