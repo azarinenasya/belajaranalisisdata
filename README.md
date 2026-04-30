@@ -31,6 +31,6 @@ numpy
 1. Simpan kode Streamlit dari notebook ini ke dalam sebuah file Python, misalnya `dashboard.py`.
 2. Jalankan aplikasi menggunakan perintah berikut di terminal:
 ```bash
-streamlit run https://azarinenasya-belajaranalisisdata-dashboard-cr3u9c.streamlit.app/
+streamlit run dashboard\dashboard.py
 
 ```
