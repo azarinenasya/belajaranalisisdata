@@ -1,4 +1,4 @@
-## Air Quality Dashboard ✨
+<img width="1427" height="815" alt="image" src="https://github.com/user-attachments/assets/fa129c73-8a3b-49b5-893f-7469cb6cf9fe" />## Air Quality Dashboard ✨
 
 Dashboard ini menyajikan analisis kualitas udara, fokus pada tren Karbon Monoksida (CO) dan kondisi kritis Nitrogen Dioksida (NO2).
 
@@ -33,5 +33,6 @@ numpy
 1. Simpan kode Streamlit dari notebook ini ke dalam sebuah file Python, misalnya `dashboard.py`.
 2. Jalankan aplikasi menggunakan perintah berikut di terminal:
 ```bash
-streamlit run dashboard.py
+streamlit run https://azarinenasya-belajaranalisisdata-dashboard-cr3u9c.streamlit.app/
+
 ```
